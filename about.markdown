@@ -4,7 +4,6 @@ title: About
 permalink: /about/
 ---
 
-
 Echolocation is a fascinating field of research. Unlike visual phenomena, which are more intuitive to humans, the acoustic world is passively present in our lives and unfolds in our appreciation of music, and day-to-day chatter. However, we pay little attention to the science of sound in everyday life.
 
 Understanding how we perceive sounds is one thing, but understanding how other animals do so is an entirely different challenge. When thinking about vocally active animals, one might immediately realise how various species use vocal communication. Birds, big mammals, and even insects come to mind, for we can hear and, to a certain extent, romanticise some of these sounds. However, the power and functionality of sounds are nowhere more glorified than how some marine mammals and bats use them - for navigating, locating, tracking and hunting prey. These animals depend on their auditory senses more than their vision and can perfectly do well without the latter.
