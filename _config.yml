@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   A science research blog for sharing my work on echolocation, the science of senses and the sounds.
   I am fascinated by the fundamentals of the phenomenon and constantly try to delineate the mysteries using experiments and simulation.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://echolocation.science" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://biosonix.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ""
 github_username:  raviumadi
 
