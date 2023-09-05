@@ -18,9 +18,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Echolocation Science
-subtitle: Sounds and Senses
-email: ravi@echolocation.science
+title: Sounds and Senses
+email: ravi@biosonix.io
 description: >- # this means to ignore newlines until "baseurl:"
   A science research blog for sharing my work on echolocation, the science of senses and the sounds.
   I am fascinated by the fundamentals of the phenomenon and constantly try to delineate the mysteries using experiments and simulation.

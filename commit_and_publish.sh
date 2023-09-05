@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Path to local repository
-localDir="/Users/ravi/Documents/website/echolocation-local"
+localDir="/Users/ravi/Documents/website/biosonix-local"
 
 # Navigate to local repository
 cd "$localDir"

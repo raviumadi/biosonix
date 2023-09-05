@@ -13,7 +13,7 @@ current_date=$(date +'%Y-%m-%d')
 filename="$current_date-$formatted_title.md"
 
 # Specify the target directory
-target_directory="/Users/ravi/Documents/website/echolocation-local/_posts"
+target_directory="/Users/ravi/Documents/website/biosonix-local/_posts"
 
 # Create the .md file with the constructed filename
 touch "$target_directory/$filename"
