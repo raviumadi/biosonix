@@ -33,13 +33,6 @@ theme: minima
 plugins:
   - jekyll-feed
 
-menu:
-  - title: Home
-    url: /
-  - title: About
-    url: /about/
-  - title: ಕಿರುಲೇಖನ
-    url: /kirulekhana/
 
 
 # Exclude from processing.
