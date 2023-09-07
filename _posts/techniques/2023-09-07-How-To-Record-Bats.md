@@ -7,8 +7,6 @@ author: Ravi Umadi
 excerpt: Learn a method of recording bat calls and visualising bat calls. 
 ---
 
-# Introduction
-
 Recording bat calls is fun - for a nerd like me. However, with just a few basic technical details, I will show you how to do it most effectively without writing code. However, as an academic researcher involved in much deeper techniques, I prefer to do it the programming way. In a later post, I will describe the MATLAB code and procedure. Try the easier way now and have fun looking at the recordings.
 
 ## Software You Will Need
