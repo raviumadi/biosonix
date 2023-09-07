@@ -5,9 +5,10 @@ date: 2023-09-07
 categories: techniques
 author: Ravi Umadi
 excerpt: Learn a method of recording bat calls and visualising bat calls. 
+tags: [echolocation, bats, recording, bioacoustics, techniques]
 ---
 
-Recording bat calls is fun - for a nerd like me. However, with just a few basic technical details, I will show you how to do it most effectively without writing code. However, as an academic researcher involved in much deeper techniques, I prefer to do it the programming way. In a later post, I will describe the MATLAB code and procedure. Try the easier way now and have fun looking at the recordings.
+Recording bat echolocation calls is fun - for a nerd like me. However, with just a few basic technical details, I will show you how to do it most effectively without writing code. However, as an academic researcher involved in much deeper techniques, I prefer to do it the programming way. In a later post, I will describe the MATLAB code and procedure. Try the easier way now and have fun looking at the recordings.
 
 ## Software You Will Need
 1. [Audacity](https://www.audacityteam.org)
@@ -39,7 +40,7 @@ I have tested the ECM-8000 microphone and compared the frequency response agains
 ### How was the frequency response calculated?
 I recorded a 5-second white noise from two channels of an RME Babyface and analysed the signals in MATLAB. Here is the example code.
 
-This analysis part is for those interested in using the ECM-8000 microphone. It is a pretty good option, except for its sensitivity. However, the frequency response is quite comparable.
+This analysis part is for those interested in using the ECM-8000 microphone. It is a good option, except for its sensitivity. But that is not a deal breaker, given the price. However, the frequency response is quite comparable.
 
 ~~~matlab
 % MATLAB 
@@ -62,7 +63,7 @@ plot(freq_response_differential, 'k', 'LineWidth', 1)
 3. Then just hit record.
 4. Test record with juggling keys.
 5. You should check your sound settings. Windows sets the sampling rate to 48kHz by default. The audacity settings don't necessarily relay to the OS. On MacOS, launch  Audio MIDI Setup and select the sampling rate.
-6. If everything goes well, and given that you set up your recording where the bats are active during the night, you should have recordings with bat calls.
+6. If everything goes well, and given that you set up your recording where the bats are active at night, you should have recordings with bat calls.
 7. Typical bat calls look like in the picture below.
 
 ![Bat Calls](/images/batCallPhasesExample.png)
@@ -70,14 +71,21 @@ plot(freq_response_differential, 'k', 'LineWidth', 1)
 This recording was taken in an orchard in the summer of 2021 in Southern Germany.
 
 You will notice a few things in this picture.
-1. Every click is followed by at least one echo - a stream of them, but it is invisible in waveform.
+1. Every click is followed by at least one echo - a stream of them, but it is invisible in the waveform plots.
 2. The clicks get more frequent as the sequence progresses, ending in very rapid calls - called a buzz phase—more on that in another post.
 
+### Things to Avoid while Recording
+
+1. Wind - protect your microphone from direct wind exposure. Use a Deadcat.
+2. Stay clear of walls and bug trees to reduce massive echoes.
+3. Take care to keep the gear dry.
+
 ## Looking at Data
+
 Open your .wav files in Sonic Visualise and press `g` on your keyboard. This brings up the spectrogram view. You can set the resolution and aspect ratio with the little turning wheel. You will see something like this:
 
 ![Bat Calls Spectrogram](/images/spectrogramBatCalls.png)
 
-That's the gist of it. Congratulations if you managed to get this far.
+That's the gist of it. Congratulations if you managed to get this far. You may start asking many questions about bat echolocation calls.
 
 Disclaimer: The products listed here are not sponsored. These are some of the tools I use in my research work.
