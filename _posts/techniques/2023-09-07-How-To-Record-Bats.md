@@ -35,7 +35,7 @@ Along with these, you will need an analogue microphone. These come in all variet
 Your pick will depend on your budget, of course.
 
 I have tested the ECM-8000 microphone and compared the frequency response against the [SANEKN CO-100K](https://sanken-mic.com/en/product/product.cfm/3.1000400), a RODE NT5, and a custom build microphone.. Here are the results. 
-![Frequency Response Comparision for the Cheapest Measuring Microphone Behringer ECM-8000](../images/ecm8000FRC.png)
+![Frequency Response Comparision for the Cheapest Measuring Microphone Behringer ECM-8000](~/images/ecm8000FRC.png)
 
 ### How was the frequency response calculated?
 I recorded a 5-second white noise from two channels of an RME Babyface and analysed the signals in MATLAB. Here is the example code.
@@ -66,7 +66,7 @@ plot(freq_response_differential, 'k', 'LineWidth', 1)
 6. If everything goes well, and given that you set up your recording where the bats are active during the night, you should have recordings with bat calls.
 7. Typical bat calls look like in the picture below.
 
-![Bat Calls](../images/batCallPhasesExample.png)
+![Bat Calls](~/images/batCallPhasesExample.png)
 
 This recording was taken in an orchard in the summer of 2021 in Southern Germany.
 
@@ -77,7 +77,7 @@ You will notice a few things in this picture.
 ## Looking at Data
 Open your .wav files in Sonic Visualise and press `g` on your keyboard. This brings up the spectrogram view. You can set the resolution and aspect ratio with the little turning wheel. You will see something like this:
 
-![Bat Calls Spectrogram](../images/spectrogramBatCalls.png)
+![Bat Calls Spectrogram](~/images/spectrogramBatCalls.png)
 
 That's the gist of it. Congratulations if you managed to get this far.
 
