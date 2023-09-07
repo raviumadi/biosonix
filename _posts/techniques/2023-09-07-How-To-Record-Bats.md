@@ -33,6 +33,7 @@ Along with these, you will need an analogue microphone. These come in all variet
 Your pick will depend on your budget, of course.
 
 I have tested the ECM-8000 microphone and compared the frequency response against the [SANEKN CO-100K](https://sanken-mic.com/en/product/product.cfm/3.1000400), a RODE NT5, and a custom build microphone.. Here are the results. 
+
 ![Frequency Response Comparision for the Cheapest Measuring Microphone Behringer ECM-8000](/images/ecm8000FRC.png)
 
 ### How was the frequency response calculated?
