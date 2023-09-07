@@ -4,6 +4,7 @@ title: "How To Record Bats"
 date: 2023-09-07
 categories: techniques
 author: Ravi Umadi
+permalink: /:title
 excerpt: Learn a method of recording bat calls and visualising bat calls. 
 tags: [echolocation, bats, recording, bioacoustics, techniques]
 ---
