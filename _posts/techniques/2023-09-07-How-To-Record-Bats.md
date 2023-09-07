@@ -77,12 +77,12 @@ You will notice a few things in this picture.
 ### Things to Avoid while Recording
 
 1. Wind - protect your microphone from direct wind exposure. Use a Deadcat.
-2. Stay clear of walls and bug trees to reduce massive echoes.
+2. Stay clear of walls and big trees to reduce massive echoes.
 3. Take care to keep the gear dry.
 
 ## Looking at Data
 
-Open your .wav files in Sonic Visualise and press `g` on your keyboard. This brings up the spectrogram view. You can set the resolution and aspect ratio with the little turning wheel. You will see something like this:
+Open your .wav files in Sonic Visualiser and press `g` on your keyboard. This brings up the spectrogram view. You can set the resolution and aspect ratio with the little turning wheel. You will see something like this:
 
 ![Bat Calls Spectrogram](/images/spectrogramBatCalls.png)
 
