@@ -81,3 +81,4 @@ Open your .wav files in Sonic Visualise and press `g` on your keyboard. This bri
 
 That's the gist of it. Congratulations if you managed to get this far.
 
+Disclaimer: The products listed here are not sponsored. These are some of the tools I use in my research work.
