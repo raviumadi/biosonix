@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ಕಿರುಲೇಖನ
+title: ಕನ್ನಡ
 permalink: /kirulekhanagalu/
 ---
 
