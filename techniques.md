@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Techniques
-permalink: /techniques/
+permalink: /Techniques/
 ---
 
 {% for post in site.posts %}

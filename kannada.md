@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ಕನ್ನಡ
-permalink: /kirulekhanagalu/
+permalink: /kannada/
 ---
 
 {% for post in site.posts %}

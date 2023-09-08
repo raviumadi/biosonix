@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: /About/
 ---
 
 Echolocation is a fascinating field of research. Unlike visual phenomena, which are more intuitive to humans, the acoustic world is passively present in our lives and unfolds in our appreciation of music and day-to-day chatter. However, we pay little attention to the science of sound in everyday life.
