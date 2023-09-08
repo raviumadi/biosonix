@@ -6,6 +6,8 @@ permalink: /Recipe/
 
 # Recipe
 
-This is the content of your page.
+## Coming up soon...
 
-You can start editing it here.
+-----------
+
+**Cite As:**  Umadi, Ravi ({{ site.time | date: "%Y" }}). {{ page.title }},  _Retrieved from https://biosonix.io{{ page.url }}_

@@ -90,3 +90,7 @@ Open your .wav files in Sonic Visualiser and press `g` on your keyboard. This br
 That's the gist of it. Congratulations if you managed to get this far. You may start asking many questions about bat echolocation calls.
 
 Disclaimer: The products listed here are not sponsored. These are some of the tools I use in my research work.
+
+-----------
+
+**Cite As:**  Umadi, Ravi ({{ site.time | date: "%Y" }}). {{ page.title }},  _Retrieved from https://biosonix.io{{ page.url }}_

@@ -20,3 +20,9 @@ This is the first section.
 ## Section 2
 
 This is the second section.
+
+
+
+-----------
+
+**Cite As:**  Umadi, Ravi ({{ site.time | date: "%Y" }}). {{ page.title }},  _Retrieved from https://biosonix.io{{ page.url }}_

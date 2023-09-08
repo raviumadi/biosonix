@@ -66,10 +66,9 @@ As you may gather from this discussion, the echolocation behaviour of bats is co
 
 You may [download the example recording](/assets/audio/BatCallSeq_PostCallsBeforeEchoes.wav) and try the analyses yourself.
 
+-----------
 
-
-**Cite As:**  Umadi, Ravi (2023). {{ page.title }},  _Retrieved from {{ page.url }}_
-
+**Cite As:**  Umadi, Ravi ({{ site.time | date: "%Y" }}). {{ page.title }},  _Retrieved from https://biosonix.io{{ page.url }}_
 
 
 

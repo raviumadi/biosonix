@@ -13,7 +13,7 @@
 # https://learnxinyminutes.com/docs/yaml/
 #
 # Site settings
-# These are used to personalize your new site. If you look in the HTML files,
+# These are used to personalise your new site. If you look in the HTML files,
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
@@ -21,8 +21,8 @@
 title: Sounds and Senses
 email: ravi@biosonix.io
 description: >- # this means to ignore newlines until "baseurl:"
-  A science research blog for sharing my work on echolocation, the science of senses and the sounds.
-  I am fascinated by the fundamentals of the phenomenon and constantly try to delineate the mysteries using experiments and simulation.
+  A science research blog for sharing my work on echolocation, the science of senses and sounds.
+  I am fascinated by the fundamentals of the phenomenon and constantly try to delineate the mysteries using experiments and simulation. Copyright: 2023 biosonix.io
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://biosonix.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: ""
