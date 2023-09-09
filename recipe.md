@@ -2,6 +2,7 @@
 layout: page
 title: "Recipe"
 permalink: /Recipe/
+published: false
 ---
 
 # Recipe
