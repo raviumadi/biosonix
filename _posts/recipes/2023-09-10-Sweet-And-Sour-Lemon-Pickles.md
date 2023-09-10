@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Sweet And Sour Lemon Pickles"
-date: "Sun Sep 10 11:27:23 CEST 2023"
+date: 2023-09-10 12:49:06 +0200
 categories: recipes
 author: Ravi Umadi
 permalink: /:title/
