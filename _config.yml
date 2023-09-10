@@ -31,10 +31,11 @@ url: "https://biosonix.io" # the base hostname & protocol for your site, e.g. ht
 #github_username:  raviumadi
 show_excerpts: false
 header_pages:
+  - about.markdown
   - insights.md
   - techniques.md
+  - recipe.md
   - kannada.md
-  - about.markdown
 
 # Build settings
 theme: minima

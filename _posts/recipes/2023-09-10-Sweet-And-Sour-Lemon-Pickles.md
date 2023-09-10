@@ -6,7 +6,7 @@ categories: recipes
 author: Ravi Umadi
 permalink: /:title
 excerpt: A delicious recipe for one of the most common Indian condiments - lemon pickles.
-tags: [recipes, Indian pickles, family recipe]
+tags: [Indian pickles, family recipe]
 ---
 
 Sweet lemon pickles are among the most commonly known pickle types from India. These are easy to prepare and preserve in warm conditions since the boiling and added sugar reduce the free water content. Lemon pickles go well with all kinds of chapati - vegetable curry meals. Lemon pickles make even the most bland food taste amazingly delicious. Try them with your favourite meals or even plain rice. Lastly, lemon pickles are also a common kitchen remedy for sour throat. 
