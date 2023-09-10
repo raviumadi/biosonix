@@ -5,7 +5,7 @@ date: "Sun Sep 10 11:27:23 CEST 2023"
 categories: recipes
 author: Ravi Umadi
 permalink: /:title
-excerpt: A delicious recipe for one of the most common Indian condiments - lemon pickles.
+excerpt: A delicious recipe for one of the most common Indian condiments, the lemon pickles.
 tags: [Indian pickles, family recipe]
 ---
 
