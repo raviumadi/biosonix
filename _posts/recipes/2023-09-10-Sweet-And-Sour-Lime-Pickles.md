@@ -1,18 +1,18 @@
 ---
 layout: post
-title: "Sweet And Sour Lemon Pickles"
+title: "Sweet And Sour Lime Pickles"
 date: 2023-09-10 12:49:06 +0200
 categories: recipes
 author: Ravi Umadi
 permalink: /:title/
-excerpt: A delicious recipe for one of the most common Indian condiments, the lemon pickles.
+excerpt: A delicious recipe for one of the most common Indian condiments, the lime pickles.
 tags: [Indian pickles, family recipe]
 ---
 
-Sweet lemon pickles are among the most commonly known pickle types from India. These are easy to prepare and preserve in warm conditions since the boiling and added sugar reduce the free water content. Lemon pickles go well with all kinds of chapati - vegetable curry meals. Lemon pickles make even the most bland food taste amazingly delicious. Try them with your favourite meals or even plain rice. Lastly, lemon pickles are also a common kitchen remedy for sour throat. 
+Sweet lime pickles are among the most commonly known pickle types from India. These are easy to prepare and preserve in warm conditions since the boiling and added sugar reduce the free water content. lime pickles go well with all kinds of chapati - vegetable curry meals. lime pickles make even the most bland food taste amazingly delicious. Try them with your favourite meals or even plain rice. Lastly, lime pickles are also a common kitchen remedy for sour throat. 
 
 ## Ingredients 
-- Semi ripe lemons 250g
+- Semi ripe limes 250g
 - Garlic 1 bulb
 - Salt and Sugar
 - Cloves 10
@@ -25,19 +25,20 @@ Sweet lemon pickles are among the most commonly known pickle types from India. T
 
 ### Preparation
 
-Wash the lemons and soak them in cold water for about 30 minutes. 
+Wash the limes and soak them in cold water for about 30 minutes. 
 
 Wipe them dry and chop them in small squares. 
 
 ## Bringing it Together 
 The pickling process goes in parts.
 
-###  Boiling the Lemons
-Transfer the chopped lemons to a clean cookware and add enough water to submerge the pieces. 
+###  Boiling the Limes
+
+Transfer the chopped limes to a clean cookware and add enough water to submerge the pieces. 
 
 Start heating on low flame. Slowly increase the heat to bring them to boiling temperature. 
 
-Once the lemons start boiling, maintain slow boiling at low to medium flame. 
+Once the limes start boiling, maintain slow boiling at low to medium flame. 
 
 Add turmeric and chill powder and mix by stirring. 
 
@@ -54,7 +55,7 @@ Warm up fenugreek seeds, cloves and mustard seeds. They should lose the water an
 
 Mill the spices or use a blender to powder. 
 
-Add this mixture to the lemon preparation when it's still hot but after turning off the heat. 
+Add this mixture to the lime preparation when it's still hot but after turning off the heat. 
 
 ### Garlic Oil Mixture 
 
@@ -62,7 +63,7 @@ Warm up the oil, add sliced garlic, and let them in warm oil for about two minut
 
 Add asafoetida to the oil. 
 
-Mix this preparation with the lemon and spice mixture. 
+Mix this preparation with the lime and spice mixture. 
 
 #### Let the mixture cool down to room temperature. Transfer to clean and air-tight glass or ceramic containers—label and date for reference.
 
