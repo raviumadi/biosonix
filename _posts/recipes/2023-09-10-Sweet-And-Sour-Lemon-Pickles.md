@@ -30,7 +30,7 @@ Wash the lemons and soak them in cold water for about 30 minutes.
 Wipe them dry and chop them in small squares. 
 
 ## Bringing it Together 
-The pickling process goes in two parts.
+The pickling process goes in parts.
 
 ###  Boiling the Lemons
 Transfer the chopped lemons to a clean cookware and add enough water to submerge the pieces. 
