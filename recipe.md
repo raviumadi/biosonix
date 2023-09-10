@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Recipe"
+title: Recipe
 permalink: /Recipe/
 ---
 
