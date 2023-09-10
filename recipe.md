@@ -2,12 +2,18 @@
 layout: page
 title: "Recipe"
 permalink: /Recipe/
-published: false
+published: true
 ---
 
-# Recipe
 
-## Coming up soon...
+{% for post in site.posts %}
+  {% if post.categories contains 'recipes' %}
+  <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+  <h6> {{ post.date }} . {{ post.author }} </h6>
+  <p> {{ post.excerpt }} </p>
+  {% endif %}
+{% endfor %}
+
 
 -----------
 
