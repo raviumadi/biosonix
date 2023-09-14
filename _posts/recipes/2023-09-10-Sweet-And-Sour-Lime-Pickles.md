@@ -11,8 +11,10 @@ tags: [Indian pickles, family recipe]
 
 Sweet lime pickles are among the most commonly known pickle types from India. These are easy to prepare and preserve in warm conditions since the boiling and added sugar reduce the free water content. lime pickles go well with all kinds of chapati - vegetable curry meals. lime pickles make even the most bland food taste amazingly delicious. Try them with your favourite meals or even plain rice. Lastly, lime pickles are also a common kitchen remedy for sour throat. 
 
+![Delicious lime pickles](/images/sweet-sour-lime-pickles.png){:width="300" height="300"}
+
 ## Ingredients 
-- Semi ripe limes 250g
+- Semi-ripe limes 250g
 - Garlic 1 bulb
 - Salt and Sugar
 - Cloves 10

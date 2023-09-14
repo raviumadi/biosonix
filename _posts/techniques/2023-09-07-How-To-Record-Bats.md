@@ -5,7 +5,7 @@ date: 2023-09-07
 categories: techniques
 author: Ravi Umadi
 permalink: /:title
-excerpt: Learn a method of recording bat calls and visualising bat calls. 
+excerpt: Learn a quick and simple method of recording bat calls and visualising field recordings.  
 tags: [echolocation, bats, recording, bioacoustics, techniques]
 ---
 
