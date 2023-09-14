@@ -14,3 +14,6 @@ Thus came this website, a simple platform to share without the bells and the tun
 
 I aim to write as often as possible, posting about ideas, projects, techniques I work with and develop, insights derived from reading and brainstorming with colleagues, and prospects for my scientific career. 
 
+There is an odd nugget here, a category of posts under Recipe. I experiment in the kitchen about as much as in a lab. I find cooking as creative and enjoyable as many other things in my job. Therefore, occasionally I write down recipes, mostly inherited from my mother, and some outrageously silly combinations, albeit rather edible.
+
+If you would like to contact me, feel free to email me. All comments and suggestions are welcome.
