@@ -59,7 +59,7 @@ Cooking this recipe takes about 90 minutes and a bit of preparation.
 - Pour the onion-tomato-garlic blend into the oil and stir. 
 - Cook for about 15 minutes on medium to high flame. Keep the lid closed and occasionally stir to avoid burning in the bottom. 
 - Reduce the heat to low and continue cooking without the lid. The goal is to remove as much water as possible. 
-- Add about paprika, anis-clove powder, cinnamon powder, cardamoms, and salt. Keep stirring. Cook for another 5 minutes. 
+- Add paprika, anis-clove powder, cinnamon powder, cardamoms, and salt. Keep stirring. Cook for another 5 minutes. 
 - Add coriander powder and mix well. Cook for another 5 minutes. 
 - Add 3g of turmeric powder. Mix well and cook for another 2 minutes.
 - Add kasoori methi and mix well. 
