@@ -76,3 +76,6 @@ Mix this preparation with the lime and spice mixture.
 -----------
 
 **Cite As:**  Umadi, Ravi ({{ site.time | date: "%Y" }}). {{ page.title }},  _Retrieved from https://biosonix.io{{ page.url }}_
+
+-----------
+{% include related_posts.html %}

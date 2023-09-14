@@ -70,7 +70,8 @@ You may [download the example recording](/assets/audio/BatCallSeq_PostCallsBefor
 
 **Cite As:**  Umadi, Ravi ({{ site.time | date: "%Y" }}). {{ page.title }},  _Retrieved from https://biosonix.io{{ page.url }}_
 
-
+-----------
+{% include related_posts.html %}
 
 
 
