@@ -98,6 +98,4 @@ When done right, you could even eat the bones!
   <img src="/images/Mutton-Curry-I-5.png" alt="Serve with roti/naan" width="400" height="400">
   <p class="image-caption">And it tastes even better with Roti or Naan</p>
 </div>
------------
 
-**Cite As:**  Umadi, Ravi ({{ site.time | date: "%Y" }}). {{ page.title }},  _Retrieved from https://biosonix.io{{ page.url }}_

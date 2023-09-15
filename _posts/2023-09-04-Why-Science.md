@@ -16,10 +16,3 @@ Why does anyone want to spend time and effort doing the hard things? What is the
  5. To Learn is to Live
 
 Is the choice to pursue tougher things worth it? It is for oneself to decide.
-
------------
-
-**Cite As:**  Umadi, Ravi ({{ site.time | date: "%Y" }}). {{ page.title }},  _Retrieved from https://biosonix.io{{ page.url }}_
-
------------
-{% include related_posts.html %}

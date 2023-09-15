@@ -17,7 +17,11 @@ layout: default
 
   <div class="post-content e-content" itemprop="articleBody">
     {{ content }}
+    <hr>
+    <p style="text-align: center; font-size: 14px;"><strong>Cite As:</strong> Umadi, Ravi ({{ site.time | date: "%Y" }}). {{ page.title }}, <em>Retrieved from https://biosonix.io{{ page.url }}</em></p>
+    <hr>
   </div>
+  {% include related_posts.html %}
 
   {%- if site.disqus.shortname -%}
     {%- include disqus_comments.html -%}

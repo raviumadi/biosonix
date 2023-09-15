@@ -91,9 +91,3 @@ That's the gist of it. Congratulations if you managed to get this far. You may s
 
 Disclaimer: The products listed here are not sponsored. These are some of the tools I use in my research work.
 
------------
-
-**Cite As:**  Umadi, Ravi ({{ site.time | date: "%Y" }}). {{ page.title }},  _Retrieved from https://biosonix.io{{ page.url }}_
-
------------
-{% include related_posts.html %}

@@ -1,0 +1,29 @@
+<footer class="site-footer h-card">
+  <data class="u-url" href="{{ "/" | relative_url }}"></data>
+
+  <div class="wrapper">
+    <!-- Add links here and center-justify them -->
+    <div class="centered-justified-links">
+      <a href="/art">Art</a>
+      <a href="/bibliography">Bibliography</a>
+      <a href="/recipe">Recipe</a>
+      <a href="/contact">Contact</a>
+    </div>
+
+    <div class="footer-col-wrapper">
+      <!-- Add a horizontal line -->
+      <hr>
+      <div style="padding-top: 5px; padding-bottom: 5px;">
+      </div>
+      <!-- Center-align the site title -->
+      <h2 class="footer-heading" style="text-align: center;">{{ site.title | escape }}</h2>
+
+      <!-- Center-align the site description -->
+      <p style="text-align: center;">{{- site.description | escape -}}</p>
+      <p style="text-align: center;">&copy; 2023 biosonix.io</p>
+
+      <!-- Add the link after the copyright with a smaller font size -->
+      <p style="text-align: center; font-size: smaller;"><a href="/privacy-policy">Privacy Policy</a></p>
+    </div>
+  </div>
+</footer>

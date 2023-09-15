@@ -77,9 +77,3 @@ Mix this preparation with the lime and spice mixture.
 
 **Pro Tip** If you are unsure whether the pickles won't go bad, store them in the refrigerator. The fermentation takes longer but ensures that the pickles won't mould. When done right, this method doesn't let pickles develop mould, but that takes much practice and pickly wisdom. 
 
------------
-
-**Cite As:**  Umadi, Ravi ({{ site.time | date: "%Y" }}). {{ page.title }},  _Retrieved from https://biosonix.io{{ page.url }}_
-
------------
-{% include related_posts.html %}

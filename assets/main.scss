@@ -3,3 +3,20 @@
 ---
 
 @import "minima";
+
+.centered-justified-links {
+  text-align: justify;
+  text-align-last: center;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  margin: 15px 0; /* Adjust the margin as needed to control the spacing */
+}
+
+.centered-justified-links a {
+  flex: 0 0 auto;
+  text-align: center;
+  width: calc(20% - 10px); /* Adjust the width as needed */
+  margin: 0 5px; /* Adjust the margin as needed to separate the links */
+}
+

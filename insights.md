@@ -11,6 +11,3 @@ permalink: /Insights/
   {% endif %}
 {% endfor %}
 
-
------------
-**Cite As:**  Umadi, Ravi ({{ site.time | date: "%Y" }}). {{ page.title }},  _Retrieved from https://biosonix.io{{ page.url }}_
