@@ -1,6 +1,6 @@
 ---
 layout: page
 title: "Bibliography"
-permalink: /bibliography/
+permalink: /Bibliography/
 ---
 {% include under-construction.html %}

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Art"
-permalink: /art/
+permalink: /Art/
 ---
 
 {% include under-construction.html %}
