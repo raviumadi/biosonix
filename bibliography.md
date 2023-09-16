@@ -16,7 +16,7 @@ permalink: /Bibliography/
   .csl-entry {
   	font-size: 85%; /* Adjust the percentage as needed */
     display: inline; /* Keep citations inline */
-    margin-right: 10px; /* Add space between citations */
+    margin-right: 20px; /* Add space between citations */
   }
 </style> -->
 

@@ -44,11 +44,11 @@ plugins:
   - jekyll-scholar
 
 scholar:
-  style: apa
+  style: apa-6th-edition
   source: _bibliography/
   sort_by: year
   order: descending
-
+  group_by: type 
 
 # Exclude from processing.
 # The following items will not be processed, by default.
