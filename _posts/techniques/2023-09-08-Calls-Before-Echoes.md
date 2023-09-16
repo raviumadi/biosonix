@@ -10,7 +10,7 @@ tags: [bats, echolocation, recording, clicks, analysis, signal processing]
 ---
 Most field recordings of bat echolocation calls come with reflections from various surfaces, including the ground. However,  the direct call arrives first, followed by the corresponding echoes. Here, we explore the primary analysis of echolocation call recordings obtained in the field condition.
 
-Analyses on field recordings commonly employ a peak detection technique with some threshold to ignore the next `n` samples so that the next detection point is outside the same call. An example MATLAB code is here:
+Analyses on field recordings commonly employ a peak detection technique with some threshold to ignore the next `n` samples so that the next detection point is outside the same call. An example MATLAB&reg; code is here:
 
 ~~~ matlab
 [signal, fs] = audioread('rec.wav');
@@ -65,7 +65,6 @@ However, this is not conclusive. The bats _do_ move their heads, and generally, 
 As you may gather from this discussion, the echolocation behaviour of bats is complex and technically challenging to analyse, but that makes it all the more fun. The bat needs to rapidly adapt to changing acoustic scenarios. As I try to study the phenomenon, it is an endless wonderment for me.
 
 You may [download the example recording](/assets/audio/BatCallSeq_PostCallsBeforeEchoes.wav) and try the analyses yourself.
-
 
 
 
