@@ -29,6 +29,8 @@ url: "https://biosonix.io" # the base hostname & protocol for your site, e.g. ht
 #twitter_username: ""
 #github_username:  raviumadi
 show_excerpts: false
+favicon: /assets/favicon.ico
+
 header_pages:
   - about.markdown
   - insights.md
