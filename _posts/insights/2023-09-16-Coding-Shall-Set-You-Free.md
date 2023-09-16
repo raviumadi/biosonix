@@ -50,5 +50,9 @@ I learned how to learn and how to learn anything. Training in science has that e
 
 Truly, intellectual accomplishments can be life-changing. They set you free.
 
+Circumstances can be challenging, but "a will to learn and make progress no matter what is what PhD all about", as Lutz once put it. 
+
+All of this would not have been possible without the support of my mentors and colleagues.
+
 And yes, I discovered the source of the high-pitched noise: an old monitor on the side of my table. The old transformer inside was producing an almost pure tone at 12 kHz. Now, that is not a musical tone, not to humans anyway.
 
