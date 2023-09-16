@@ -40,14 +40,14 @@ theme: minima
 plugins:
   - jekyll-feed
 
-# plugins:
-#   - jekyll-scholar
+plugins:
+  - jekyll-scholar
 
-# scholar:
-#   style: apa
-#   source: _bibliography/
-#   sort_by: year
-#   order: descending
+scholar:
+  style: apa
+  source: _bibliography/
+  sort_by: year
+  order: descending
 
 
 # Exclude from processing.
