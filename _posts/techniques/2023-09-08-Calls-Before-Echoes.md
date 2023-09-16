@@ -43,7 +43,7 @@ function path_difference = calculatePathDifference(peak1, peak2, fs, c)
 % peak1, peak2 - obtain from k = ginput(2);
 % fs - sampling frequency
 % c - speed of sound in air, at STP, unless parameters known
-distance_to_reflector = (abs(diff([peak1 peak2]))*fs)*c; % in meters
+path_difference = (abs(diff([peak1 peak2]))*fs)*c; % in meters
 ~~~
 
 For a simple case analysis, assume you are standing with a wall on your right, holding a microphone parallel to the wall and the ground, and a bat approaching you from the front. The recording will contain direct calls and reflections from the wall and the ground, similar to the example above. As the bat flies right over you, the calls reach the microphone much earlier than the echoes. 

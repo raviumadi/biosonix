@@ -8,5 +8,5 @@ permalink: /Bibliography/
   <p><b>This is a copy of my Zotero bibliography collection. It is automatically updated as I add new entries to my collection.</b></p>
 </div> 
 
-{% bibliography %}
 
+{% bibliography %}
