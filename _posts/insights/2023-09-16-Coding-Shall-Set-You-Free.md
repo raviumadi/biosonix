@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Coding Shall Set You Free"
-date: 2023-09-16 17:00:14 +0200
+date: 2023-09-16 20:00:14 +0200
 categories: [insights, opinions]
 author: Ravi Umadi
 permalink: /:title
