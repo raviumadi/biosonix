@@ -50,6 +50,12 @@ permalink: /Art/
     <div class="album">
         <!-- Replace the placeholders with your artwork images and descriptions -->
         <div class="artwork">
+            <h3 class="artwork-title">Traps</h3>
+            <img src="/images/Traps.png" alt="Traps">
+            <div class="artwork-description"></div>
+        </div>
+        <hr style="color: red; width: 90%; height: 1px;">
+        <div class="artwork">
         	<h3 class="artwork-title">Ochre</h3>
             <img src="/images/Rusted.png" alt="Ochre">
             <div class="artwork-description"></div>
