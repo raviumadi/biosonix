@@ -13,8 +13,8 @@ Idly is among the most typical of the southern states of India. Idlies are made 
 Fortunately, some more straightforward recipes come in handy when in a hurry. Here is one that works very well and comes close to the taste of the original. Thanks, Mom <3
 
 ## Ingredients
-- Refined very fine-grain semolina - 150g
-- Curds/Natural Yogurt - 100g
+- Refined very fine-grain semolina
+- Curds/Natural Yogurt
 - Baking powder
 - Salt 
 
@@ -26,7 +26,7 @@ If you are in Germany, the Weichweizen Griess from any grocery store works very 
 
 ## Make the Batter
 - Get the idly cooker running hot as you make the batter
-- Mix the semolina with the yoghurt
+- Mix the semolina with the yoghurt 1:1 ratio in volume. For example, 1 cup each
 - Add a little bit of water if the mix is too thick. Mix thoroughly
 - Keep for five minutes
 - Mix a pinch of salt and about 0.5g of baking powder/soda with a few drops of water and add to the mixture

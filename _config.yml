@@ -22,7 +22,7 @@ title: Sounds and Senses
 email: ravi@biosonix.io
 author: Ravi Umadi
 description: >- # this means to ignore newlines until "baseurl:"
-  A science research blog for sharing my work on echolocation, the science of sounds and senses, and much more 
+  A science research blog for sharing my work on echolocation, the science of sounds and senses, and more 
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://biosonix.io" # the base hostname & protocol for your site, e.g. http://example.com
