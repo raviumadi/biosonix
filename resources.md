@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Database"
-permalink: /Database/
+title: "Resources"
+permalink: /Resources/
 ---
 
 {% include under-construction.html%}
