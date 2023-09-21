@@ -35,6 +35,7 @@ header_pages:
   - about.markdown
   - insights.md
   - techniques.md
+  - database.md
   - kannada.md
 
 # Build settings
