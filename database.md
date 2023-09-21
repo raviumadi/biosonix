@@ -4,7 +4,7 @@ title: "Database"
 permalink: /Database/
 ---
 
-<!-- {% include under-construction.html%} -->
+{% include under-construction.html%}
 
 <!-- <html lang="en">
 <head>
@@ -32,53 +32,3 @@ permalink: /Database/
 <!-- </body>
 </html> --> 
 
-<style>
-  .audio-container {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    margin-top: 2rem;
-    padding: 1rem;
-  }
-  
-  .description, .audio-player {
-    flex: 1;
-    padding: 1rem;
-  }
-
-  .description {
-    border-right: 1px solid #ddd;
-  }
-  
-  audio {
-    width: 100%;
-  }
-
-  .bottom-line {
-    margin-top: 2rem;
-    margin-bottom: 2rem;
-  }
-</style>
-
-<div class="audio-container">
-  <!-- Technical Description Column -->
-  <div class="description">
-    <h2>Technical Description</h2>
-    <p>
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus lacinia odio vitae vestibulum. Donec in efficitur ipsum, in egestas purus. Praesent nec congue orci. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Suspendisse potenti.
-    </p>
-    <!-- You can continue to add more details or other elements here -->
-  </div>
-
-  <!-- Audio Player Column -->
-  <div class="audio-player">
-    <h2>Listen to the Audio</h2>
-    <audio controls>
-      <source src="/assets/audio/koel_kgd_22062023.wav" type="audio/mpeg">
-      Your browser does not support the audio element.
-    </audio>
-    <p>Audio Title or Description</p>
-  </div>
-</div>
-
-<hr class="bottom-line">
