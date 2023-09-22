@@ -20,3 +20,51 @@
   margin: 0 5px; /* Adjust the margin as needed to separate the links */
 }
 
+.post-navigation {
+    display: flex;
+    justify-content: space-between; /* This will put maximum space between the two items */
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+/* Audio container */
+.audio-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 2rem;
+  padding: 1rem;
+  font-size: 12px;
+}
+
+.description, .audio-player {
+  flex: 1;
+  padding: 1rem;
+}
+
+.description {
+  border-right: 1px solid #ddd;
+  text-align: left;
+}
+
+.audio-caption {
+  text-align: center;
+}
+
+audio {
+  width: 100%;
+}
+
+.bottom-line {
+  margin-bottom: 1rem;
+}
+
+.audio-related-image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1rem;  /* Space between the image and the audio player/description */
+    max-width: 100%;   /* Ensures the image doesn't exceed container's width */
+}
+/* End of Audio container */
+

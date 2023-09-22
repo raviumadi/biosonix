@@ -1,0 +1,13 @@
+<div class="post-navigation">
+   {% if page.previous %}
+      <a href="{{ page.previous.url | prepend: site.baseurl }}" class="previous-post">
+         ← {{ page.previous.title }}
+      </a>
+   {% endif %}
+
+   {% if page.next %}
+      <a href="{{ page.next.url | prepend: site.baseurl }}" class="next-post">
+         {{ page.next.title }} →  
+      </a>
+   {% endif %}
+</div>
