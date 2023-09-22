@@ -64,7 +64,7 @@ However, this is not conclusive. The bats _do_ move their heads, and generally, 
 
 As you may gather from this discussion, the echolocation behaviour of bats is complex and technically challenging to analyse, but that makes it all the more fun. The bat needs to rapidly adapt to changing acoustic scenarios. As I try to study the phenomenon, it is an endless wonderment for me.
 
-You may [download the example recording](/assets/audio/BatCallSeq_PostCallsBeforeEchoes.wav) and try the analyses yourself.
+You may [download the example recording](/audio/CallsBeforeEchoes.wav) and try the analyses yourself.
 
 
 

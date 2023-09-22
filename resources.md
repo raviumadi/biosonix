@@ -6,11 +6,11 @@ permalink: /Resources/
 **Here are links to sounds, media, pieces of code, templates etc. in addition to posts containing such material.**
 <hr class="bottom-line">
   <div class="centered-justified-links">
-      <a href="/bat-calls">Bat Calls</a>
-      <a href="/bird-calls">Bird Calls</a>
-      <a href="/insects">Insects</a>
-      <a href="/pictures">Pictures</a>
-      <a href="/miscellaneous">Misc.</a>
+      <a href="/Bat-Calls">Bat Calls</a>
+      <a href="/Bird-Calls">Bird Calls</a>
+      <a href="/Insects">Insects</a>
+      <a href="/Pictures">Pictures</a>
+      <a href="/Miscellaneous">Misc.</a>
     </div>
 <hr class="bottom-line">
 
