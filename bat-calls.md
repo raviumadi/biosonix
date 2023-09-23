@@ -12,7 +12,7 @@ permalink: /Bat-Calls/
 	The spectrograms are made with 1024 samples-long windows with 50% overlap at <em>Fs/10</em> resolution. <br>
 	The audible sound is resampled at <em> Fs/8 </em>. <br>
 	
-	ಬಾವಲಿಗಳ ಕೂಗುಗಳು ಮಾನವ ಕೇಳಿಕೆಯ ಆವರ್ತನೆಯ ಮೇಲ್ಮಟ್ಟದಲ್ಲಿ ಇರುವುದರಿಂದ, ದಾಖಲಿತ ಶಬ್ದಗಳನ್ನು ೧:೮ ವೇಗದಲ್ಲಿ ಪರಿವರ್ತಿಸಿ ಪ್ರಸ್ತುತಪಡಿಸಲಾಗಿದೆ.
+	ಬಾವಲಿಗಳ ಕೂಗುಗಳು ಮಾನವ ಆಲಿಕೆಯ ಆವರ್ತನೆಯ ಮೇಲ್ಮಟ್ಟದಲ್ಲಿ ಇರುವುದರಿಂದ, ದಾಖಲಿತ ಶಬ್ದಗಳನ್ನು ೧/೮ ಗತಿಗೆ ಪರಿವರ್ತಿಸಿ ಪ್ರಸ್ತುತಪಡಿಸಲಾಗಿದೆ.
 </p>	
 
 <!-- ----------------- Number 1 Entry Begin ----------------- -->
