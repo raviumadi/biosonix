@@ -5,11 +5,14 @@ permalink: /Bat-Calls/
 ---
 <p class="centered-bold">
 	A collection of bat calls from various sites and projects. <br>
+	ಬಾವಲಿಗಳ ಕೂಗುಗಳ ಸಂಪಾದನೆ. ವಿವಿಧ ಪ್ರದೇಶಗಳಿಂದ ಸಂಗ್ರಹಿಸಿದ ಅನೇಕ ಪ್ರಭೇಧಗಳ ಉದಾಹರಣೆಗಳು
 </p>
 
 <p class="centered-normal">
 	The spectrograms are made with 1024 samples-long windows with 50% overlap at <em>Fs/10</em> resolution. <br>
-	The audible sound is resampled at <em> Fs/8 </em>.
+	The audible sound is resampled at <em> Fs/8 </em>. <br>
+	
+	ಬಾವಲಿಗಳ ಕೂಗುಗಳು ಮಾನವ ಕೇಳಿಕೆಯ ಆವರ್ತನೆಯ ಮೇಲ್ಮಟ್ಟದಲ್ಲಿ ಇರುವುದರಿಂದ, ದಾಖಲಿತ ಶಬ್ದಗಳನ್ನು ೧:೮ ವೇಗದಲ್ಲಿ ಪರಿವರ್ತಿಸಿ ಪ್ರಸ್ತುತಪಡಿಸಲಾಗಿದೆ.
 </p>	
 
 <!-- ----------------- Number 1 Entry Begin ----------------- -->
