@@ -14,7 +14,7 @@ permalink: /Bird-Calls/
       <strong>Location</strong>: Isar riverside, Freising, DE <br>
       <strong>Species</strong>: <em>Unknown</em> <br>
       <strong>Device/@</strong>: Olympus LS-P4@48kHz <br>
-      <strong>Description</strong>: Songbirds in the bush, duetting in the late evening, by the riverside. <br>
+      <strong>Description</strong>: Songbirds in the bush, duetting in the late evening, by the riverside. In the background is the roaring river. <br>
     </p>
     <!-- You can continue to add more details or other elements here -->
   </div>
