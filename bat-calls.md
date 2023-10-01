@@ -3,6 +3,7 @@ layout: page
 title: "Bat Calls"
 permalink: /Bat-Calls/
 ---
+{% include resource_menu.html%}
 <p class="centered-bold">
 	A collection of bat calls from various sites and projects. <br>
 	ಬಾವಲಿಗಳ ಕೂಗುಗಳ ಸಂಪಾದನೆ. ವಿವಿಧ ಪ್ರದೇಶಗಳಿಂದ ಸಂಗ್ರಹಿಸಿದ ಅನೇಕ ಪ್ರಭೇಧಗಳ ಉದಾಹರಣೆಗಳು
@@ -14,6 +15,8 @@ permalink: /Bat-Calls/
 
 	ಬಾವಲಿಗಳ ಕೂಗುಗಳು ಮಾನವ ಆಲಿಕೆಯ ಆವರ್ತನೆಯ ಮೇಲ್ಮಟ್ಟದಲ್ಲಿ ಇರುವುದರಿಂದ, ದಾಖಲಿತ ಶಬ್ದಗಳನ್ನು ೧/೮ ಗತಿಗೆ ಪರಿವರ್ತಿಸಿ ಪ್ರಸ್ತುತಪಡಿಸಲಾಗಿದೆ.
 </p>	
+
+
 
 <!-- ----------------- Number 1 Entry Begin ----------------- -->
 <div class="audio-container">

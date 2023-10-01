@@ -3,6 +3,7 @@ layout: page
 title: "Bird Calls"
 permalink: /Bird-Calls/
 ---
+{% include resource_menu.html%}
 
 <!-- ----------------- Number 1 Entry Begin ----------------- -->
 <div class="audio-container">

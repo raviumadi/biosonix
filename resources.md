@@ -6,15 +6,7 @@ permalink: /Resources/
 **Here are links to sounds, media, pieces of code, templates etc. in addition to posts containing such material.**
 
 _Contents may be under construction_
-<hr class="bottom-line">
-  <div class="centered-justified-links">
-      <a href="/Bat-Calls">Bat Calls</a>
-      <a href="/Bird-Calls">Bird Calls</a>
-      <a href="/Insects">Insects</a>
-      <a href="/Pictures">Pictures</a>
-      <a href="/Miscellaneous">Misc.</a>
-    </div>
-<hr class="bottom-line">
+{% include resource_menu.html%}
 
 <!-- Add posts with resources category -->
 {% for post in site.posts %}
