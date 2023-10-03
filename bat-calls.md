@@ -33,7 +33,6 @@ permalink: /Bat-Calls/
 
   <!-- Audio Player Column -->
   <div class="audio-player">
-
   <!-- <h2>Listen to the Audio</h2> -->
     <audio controls>
       <source src="/audio/19fe15833.wav" type="audio/mpeg">
