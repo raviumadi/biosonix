@@ -18,12 +18,17 @@ The following technique demonstrates how to achieve this using VST plug in from 
 ## Set up
 	microphone-->Input ch.1-->VST process-->[Output ch.1-->Input ch.2]--loopback
 
-	To test the latency encoutned by applying a bandpass filter using a VST plugin in soundmexpro, I processed the signal from a microphone and recorded the processed signal from a second channel. By cross correlating the two recorded sigal, I find the overall latency.
+	To test the latency encountered by applying a bandpass filter using a VST plugin in soundmexpro, I processed the signal from a microphone and recorded the processed signal from a second channel. By cross correlating the two recorded sigal, I find the overall latency.
 
 	**Factros affecting the latency**
+	
 	The ASIO driver buffer size - Select it such that xruns are minimised/completely eliminated. In my testing I used 96/64 samples 
-	Framelength - if the 'recbufsize' increases, the processing may slow down.
-	The applied delay to control for playback latency - experimental requirement. Use the varaible ir_delay to introduce a desired playback latency.
+
+	Framelength - if the 'recbufsize' increases, the processing might slow down.
+
+	The applied delay to control for playback latency - experimental requirement. 
+
+	Use the variable ir_delay to introduce a desired playback latency.
 
 ## Code
 Now the core part:
