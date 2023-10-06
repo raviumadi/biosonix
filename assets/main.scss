@@ -4,6 +4,19 @@
 
 @import "minima";
 
+/* Control wrapping inside code and hightlight blocks */
+.highlight {
+    white-space: pre-wrap;
+}
+
+.blockquote {
+    white-space: pre-wrap;
+}
+
+.language-matlab{
+  white-space: pre-wrap;
+}
+/* Footer links */
 .centered-justified-links {
   text-align: justify;
   text-align-last: center;
