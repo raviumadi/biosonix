@@ -14,10 +14,13 @@ However, obtaining data should not be that difficult.
 
 Hence, this Basic Matlab Sound Recorder does what one might need in a hurry: record, mark events of interest, and save data. 
 
-<div class="button-container">
-<a href="https://github.com/raviumadi/Basic-Matlab-Sound-Recorder" class="btn">Download the tool from GitHub</a>
-</div>
+**[Download the tool from GitHub](https://github.com/raviumadi/Basic-Matlab-Sound-Recorder)**
 
+<div style="text-align: center;">
+  <img src="/images/A-Simple-Sound-Recorder-1.png" alt="" width="" height="">
+  <p class="image-caption">Command line output from example recording</p>
+</div>
+<hr class="bottom-line">
 
 # Basic-Matlab-Sound-Recorder
 
