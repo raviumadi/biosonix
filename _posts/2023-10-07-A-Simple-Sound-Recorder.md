@@ -20,8 +20,12 @@ Hence, this Basic Matlab Sound Recorder does what one might need in a hurry: rec
 </div>
 
 <div class="button-container">
-  <a href="https://github.com/raviumadi/Basic-Matlab-Sound-Recorder" class="btn">Download the tool from GitHub</a>
+  <a href="https://github.com/raviumadi/Basic-Matlab-Sound-Recorder" class="btn">Download from GitHub Repo</a>
 </div>
+
+Unzip the folder and add it to your MATLAB search path. Follow the documentation and the example code for functional features.
+
+Whether you want to record bird calls, take voice memos, or record notes, this handy tool will get you going with a single custom command or a script drafted out of your imagination.
 
 <hr class="bottom-line">
 
