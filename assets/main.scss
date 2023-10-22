@@ -121,3 +121,28 @@ audio {
     border-radius: 5px;
     margin-bottom: 10px;
 }
+
+/* Latest posts excerpt image styling */
+
+/* Adjust the width as needed */
+.post-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.latest-post-content {
+  width: 100%;
+}
+
+.latest-post-image {
+  max-width: 30%;
+  height: auto;
+  margin-left: 20px; /* Add spacing between content and image */
+}
+
+/* Ensure images fit within the square container */
+.square-container img {
+  width: 100%;
+  height: auto;
+}
