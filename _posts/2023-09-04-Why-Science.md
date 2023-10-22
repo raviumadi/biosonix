@@ -3,6 +3,7 @@ layout: post
 title: Why Science?
 date: 2023-09-04
 categories: [insights, opinion]
+author: Ravi Umadi
 permalink: /:title
 ---
 Why does anyone want to spend time and effort doing the hard things? What is the appeal of working hard while almost everyone enjoys life with leisure and comfort?
