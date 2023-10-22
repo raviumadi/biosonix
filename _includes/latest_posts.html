@@ -1,49 +1,13 @@
 
-<!-- <div class="latest-posts">
-  <h2>Latest Posts</h2>
-  <ul>
-    {% for post in site.posts limit:5 %}
-    <li>
-      <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
-      <p>{{ post.content | strip_html | truncatewords: 50 }} <a href="{{ post.url }}">Read more</a></p>
-    </li>
-    {% endfor %}
-  </ul>
-</div>
- -->
-
-<!-- <div class="latest-posts">
-  <h1>Latest</h1>
-  <ul>
-    {% assign counter = 0 %}
-    {% for post in site.posts %}
-      {% unless post.categories contains 'recipes' %}
-        <li>
-          <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-          <p> {{ post.date | date: "%d %B %Y" }}</p>
-          <p>{{ post.content | strip_html | truncatewords: 80 }} <a href="{{ post.url }}">Read more</a></p>
-          <hr>
-        </li>
-        {% assign counter = counter | plus: 1 %}
-      {% endunless %}
-      {% if counter >= 10 %}
-        {% break %}
-      {% endif %}
-    {% endfor %}
-  </ul>
-</div>
- -->
-
 <div class="latest-posts">
-  <h1>The Latest</h1>
-  <ul>
+
     {% assign counter = 0 %}
     {% for post in site.posts %}
       {% unless post.categories contains 'recipes' %}
         <li class="post-item">
           <div class="latest-post-content">
             <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-            <p>{{ post.date | date: "%d %B %Y" }}</p>
+            <h6>{{ post.date | date: "%B %d %Y" }}</h6>
             <p>{{ post.content | strip_html | truncatewords: 50 }} <a href="{{ post.url }}">Read more</a></p>
           </div>
           {% assign post_content = post.content | split: '<img' %}
@@ -56,14 +20,14 @@
             </div>
           {% endif %}
         </li>
-        <hr>
+        <hr class="bottom-line">
         {% assign counter = counter | plus: 1 %}
       {% endunless %}
       {% if counter >= 5 %}
         {% break %}
       {% endif %}
     {% endfor %}
-  </ul>
+
 </div>
 
 
