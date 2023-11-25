@@ -30,12 +30,12 @@ A couple of weeks ago, I walked into a music store in Munich, thinking about pic
 ## Builds
 
 <div style="text-align: center;">
-  <img src="/images/Metronome1.JPEG" alt="Digital metronone, prototype 1" width="" height="">
+  <img src="/images/Metronome1.jpeg" alt="Digital metronome, prototype 1" width="" height="">
   <p class="image-caption">The 0.25W speaker clicks when the HIGH is sent out from the GPIO. The LED flashes with every tick, for added visual cue.</p>
 </div>
 
 <div style="text-align: center;">
-  <img src="/images/Metronome2.JPEG" alt="Digital metronone, prototype 2" width="" height="">
+  <img src="/images/Metronome2.jpeg" alt="Digital metronome, prototype 2" width="" height="">
   <p class="image-caption">Improved build. The two toggle switches rise or lower beats per minute by 10 with every press. The information is displayed in the 0.96" OLED.</p>
 </div>
 
